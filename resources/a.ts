@@ -81,6 +81,12 @@ export const resources: Resource[] = [
         ],
         url: 'https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ',
     },
+    {    name: 'AFFine',
+         categories: ['AI'],
+         description: "Your AI partner helps you better write, draw and present",
+         keywords: ['AI','Design Tool','Productivity'],
+         url:    'https://ai.affine.pro/ai',
+    },
     {
         name: 'Ahrefs',
         categories: ['SEO'],
